@@ -1,0 +1,5 @@
+.env
+data/
+index/
+# Ignore the python virtual environment
+venv/
